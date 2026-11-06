@@ -207,3 +207,6 @@ This repository serves as the official landing page for ESET Smart Security Prem
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of ESET Smart Security Premium today!**
+
+---
+**Last updated:** 2026-11-06 03:02:19 UTC
