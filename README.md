@@ -209,4 +209,4 @@ This repository serves as the official landing page for ESET Smart Security Prem
 **Get the most recent version of ESET Smart Security Premium today!**
 
 ---
-**Last updated:** 2026-11-12 05:20:12 UTC
+**Last updated:** 2026-11-12 14:27:45 UTC
